@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\GIT_Perso\\DesignPatterns\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1D63B863-25FC-47AF-B82B-604726FF05CC}|FactoryPattern.csproj|c:\\git_perso\\designpatterns\\products\\sony\\playstationgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D63B863-25FC-47AF-B82B-604726FF05CC}|FactoryPattern.csproj|solutionrelative:products\\sony\\playstationgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1D63B863-25FC-47AF-B82B-604726FF05CC}|FactoryPattern.csproj|c:\\git_perso\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D63B863-25FC-47AF-B82B-604726FF05CC}|FactoryPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{1D63B863-25FC-47AF-B82B-604726FF05CC}|FactoryPattern.csproj|solutionrelative:interfaces\\icontrollerproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D63B863-25FC-47AF-B82B-604726FF05CC}|FactoryPattern.csproj|c:\\git_perso\\designpatterns\\products\\sony\\playstationgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D63B863-25FC-47AF-B82B-604726FF05CC}|FactoryPattern.csproj|solutionrelative:products\\sony\\playstationgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1D63B863-25FC-47AF-B82B-604726FF05CC}|FactoryPattern.csproj|c:\\git_perso\\designpatterns\\products\\microsoft\\xboxgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D63B863-25FC-47AF-B82B-604726FF05CC}|FactoryPattern.csproj|solutionrelative:products\\microsoft\\xboxgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "PlaystationGame.cs",
               "DocumentMoniker": "C:\\GIT_Perso\\DesignPatterns\\Products\\Sony\\PlaystationGame.cs",
               "RelativeDocumentMoniker": "Products\\Sony\\PlaystationGame.cs",
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Playstation.cs",
               "DocumentMoniker": "C:\\GIT_Perso\\DesignPatterns\\Products\\Sony\\Playstation.cs",
               "RelativeDocumentMoniker": "Products\\Sony\\Playstation.cs",
@@ -91,12 +91,11 @@
               "RelativeToolTip": "Products\\Sony\\Playstation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T10:41:19.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T10:41:19.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MicrosoftFactory.cs",
               "DocumentMoniker": "C:\\GIT_Perso\\DesignPatterns\\Factories\\MicrosoftFactory.cs",
               "RelativeDocumentMoniker": "Factories\\MicrosoftFactory.cs",
@@ -104,8 +103,7 @@
               "RelativeToolTip": "Factories\\MicrosoftFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T10:24:56.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T10:24:56.349Z"
             },
             {
               "$type": "Document",
@@ -117,12 +115,11 @@
               "RelativeToolTip": "Products\\Microsoft\\XboxGame.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T10:16:03.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T10:16:03.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IControllerProduct.cs",
               "DocumentMoniker": "C:\\GIT_Perso\\DesignPatterns\\Interfaces\\IControllerProduct.cs",
               "RelativeDocumentMoniker": "Interfaces\\IControllerProduct.cs",
@@ -130,12 +127,11 @@
               "RelativeToolTip": "Interfaces\\IControllerProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T10:15:43.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T10:15:43.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "XboxController.cs",
               "DocumentMoniker": "C:\\GIT_Perso\\DesignPatterns\\Products\\Microsoft\\XboxController.cs",
               "RelativeDocumentMoniker": "Products\\Microsoft\\XboxController.cs",
@@ -143,12 +139,11 @@
               "RelativeToolTip": "Products\\Microsoft\\XboxController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T10:14:42.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T10:14:42.97Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IConsoleProduct.cs",
               "DocumentMoniker": "C:\\GIT_Perso\\DesignPatterns\\Interfaces\\IConsoleProduct.cs",
               "RelativeDocumentMoniker": "Interfaces\\IConsoleProduct.cs",
@@ -156,12 +151,11 @@
               "RelativeToolTip": "Interfaces\\IConsoleProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T10:14:02.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T10:14:02.839Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GIT_Perso\\DesignPatterns\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -169,12 +163,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwCsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T08:47:44.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T08:47:44.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SonyFactory.cs",
               "DocumentMoniker": "C:\\GIT_Perso\\DesignPatterns\\Factories\\SonyFactory.cs",
               "RelativeDocumentMoniker": "Factories\\SonyFactory.cs",
@@ -182,12 +175,11 @@
               "RelativeToolTip": "Factories\\SonyFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T10:50:34.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T10:50:34.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IFactory.cs",
               "DocumentMoniker": "C:\\GIT_Perso\\DesignPatterns\\Interfaces\\IFactory.cs",
               "RelativeDocumentMoniker": "Interfaces\\IFactory.cs",
@@ -195,12 +187,11 @@
               "RelativeToolTip": "Interfaces\\IFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T09:29:01.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T09:29:01.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PlaystationController.cs",
               "DocumentMoniker": "C:\\GIT_Perso\\DesignPatterns\\Products\\Sony\\PlaystationController.cs",
               "RelativeDocumentMoniker": "Products\\Sony\\PlaystationController.cs",
@@ -208,8 +199,7 @@
               "RelativeToolTip": "Products\\Sony\\PlaystationController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T10:46:21.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T10:46:21.616Z"
             },
             {
               "$type": "Document",
@@ -221,8 +211,7 @@
               "RelativeToolTip": "Products\\Microsoft\\Xbox.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T09:54:18.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T09:54:18.084Z"
             }
           ]
         }
