@@ -1,0 +1,14 @@
+C:\GIT_Perso\DesignPatterns\bin\Debug\net9.0\FactoryPattern.exe
+C:\GIT_Perso\DesignPatterns\bin\Debug\net9.0\FactoryPattern.deps.json
+C:\GIT_Perso\DesignPatterns\bin\Debug\net9.0\FactoryPattern.runtimeconfig.json
+C:\GIT_Perso\DesignPatterns\bin\Debug\net9.0\FactoryPattern.dll
+C:\GIT_Perso\DesignPatterns\bin\Debug\net9.0\FactoryPattern.pdb
+C:\GIT_Perso\DesignPatterns\obj\Debug\net9.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT_Perso\DesignPatterns\obj\Debug\net9.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\GIT_Perso\DesignPatterns\obj\Debug\net9.0\FactoryPattern.AssemblyInfo.cs
+C:\GIT_Perso\DesignPatterns\obj\Debug\net9.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\GIT_Perso\DesignPatterns\obj\Debug\net9.0\FactoryPattern.dll
+C:\GIT_Perso\DesignPatterns\obj\Debug\net9.0\refint\FactoryPattern.dll
+C:\GIT_Perso\DesignPatterns\obj\Debug\net9.0\FactoryPattern.pdb
+C:\GIT_Perso\DesignPatterns\obj\Debug\net9.0\FactoryPattern.genruntimeconfig.cache
+C:\GIT_Perso\DesignPatterns\obj\Debug\net9.0\ref\FactoryPattern.dll
