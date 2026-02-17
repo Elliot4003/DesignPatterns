@@ -232,3 +232,5 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+/CreationalPatterns/obj/project.assets.json
+/CreationalPatterns/obj/project.nuget.cache
