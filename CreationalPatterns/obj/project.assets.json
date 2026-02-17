@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GIT_Perso\\DesignPatterns\\CreationalPatterns\\FactoryPattern.csproj",
-      "projectName": "FactoryPattern",
-      "projectPath": "C:\\GIT_Perso\\DesignPatterns\\CreationalPatterns\\FactoryPattern.csproj",
+      "projectUniqueName": "C:\\GIT_Perso\\DesignPatterns\\CreationalPatterns\\AbstractFactoryPattern.csproj",
+      "projectName": "AbstractFactoryPattern",
+      "projectPath": "C:\\GIT_Perso\\DesignPatterns\\CreationalPatterns\\AbstractFactoryPattern.csproj",
       "packagesPath": "C:\\Users\\elliot.crozet\\.nuget\\packages\\",
       "outputPath": "C:\\GIT_Perso\\DesignPatterns\\CreationalPatterns\\obj\\",
       "projectStyle": "PackageReference",

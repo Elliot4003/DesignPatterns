@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36915.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CreationalPatterns", "CreationalPatterns", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "CreationalPatterns\FactoryPattern.csproj", "{5777E7D1-C790-A528-8674-F1033AF2A055}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryPattern", "CreationalPatterns\AbstractFactoryPattern.csproj", "{5777E7D1-C790-A528-8674-F1033AF2A055}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
