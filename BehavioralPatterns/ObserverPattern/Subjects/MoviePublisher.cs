@@ -5,7 +5,7 @@ namespace ObserverPattern.Subjects;
 
 public class MoviePublisher : ISubject
 {
-    private static Action<ISubject>? _subjectNotification; // Délégué permettant d'impacter tous les observers abonnés
+    private static event Action<ISubject>? _subjectNotification; // Délégué permettant d'impacter tous les observers abonnés
     public MovieTypesEnum Type { get; private set; } = MovieTypesEnum.Undefined;
     private List<IObserver> _observers = [];
 
