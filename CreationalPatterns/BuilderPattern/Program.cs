@@ -6,7 +6,7 @@ namespace BuilderPattern;
 
 public class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
         var director = new Director();
         var builder = new VehicleBuilder();

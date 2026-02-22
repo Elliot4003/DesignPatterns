@@ -7,7 +7,7 @@ namespace AdapterPattern;
 
 public class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
         var legacyOrderProcess = new LegacyOrderProcess();
         var orderProcessor = new OrderProcessAdapter(legacyOrderProcess);

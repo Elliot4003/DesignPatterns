@@ -5,7 +5,7 @@ namespace StrategyPattern;
 
 public class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
         // Context
         var messageSender = new MessageSender();

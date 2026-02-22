@@ -37,7 +37,7 @@ public class Program
         game.CreationProcess();
     }
 
-    static void Main(string[] args)
+    static void Main()
     {
         ClientMain();
     }

@@ -6,7 +6,7 @@ namespace ObserverPattern;
 
 public class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
         // Subject
         var moviePublisher = new MoviePublisher();
