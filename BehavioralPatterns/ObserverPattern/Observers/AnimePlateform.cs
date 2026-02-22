@@ -9,7 +9,7 @@ public class AnimePlateform : IObserver
 {
     public void Update(ISubject subject)
     {
-        if ((subject as MoviePublisher)?.Type == MovieTypesEnum.Anime)
+        if (subject is MoviePublisher { Type: MovieTypesEnum.Anime })
         {
             Console.WriteLine($"Un film a été ajouté au catalogue de la plateforme d'anime");
             Console.WriteLine();

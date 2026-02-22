@@ -8,7 +8,7 @@ public class ActionPlateform : IObserver
 {
     public void Update(ISubject subject)
     {
-        if ((subject as MoviePublisher)?.Type == MovieTypesEnum.Action)
+        if (subject is MoviePublisher { Type: MovieTypesEnum.Action })
         {
             Console.WriteLine($"Un film a été ajouté au catalogue de la plateforme de films d'action");
             Console.WriteLine();
